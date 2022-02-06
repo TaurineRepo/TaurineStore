@@ -1,0 +1,8 @@
+---
+---
+{   
+    {% assign latest_post = site.posts.first %}
+    "versionNumber": "{{ latest_post.title }}",
+    "latestBlog": "https://taurine.app/releases/{{ latest_post.title }}",
+    "downloadLink": "https://github.com/Odyssey-Team/Taurine/releases/download/{{ latest_post.title }}/Taurine-{{ latest_post.title }}.ipa"
+}
