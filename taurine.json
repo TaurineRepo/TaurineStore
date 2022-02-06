@@ -58,7 +58,6 @@
       "identifier": "fugu14-release",
       "caption": "Supports iOS 14.3-14.5.1 (A12-A14)",
       "tintColor": "6356F6",
-      "imageURL": "",
       "appID": "science.xnu.undecimus",
       "date": "2020-11-03",
       "notify": false
