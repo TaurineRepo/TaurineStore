@@ -22,6 +22,24 @@
         "https://taurine.app/assets/images/ss-2.png",
         "https://taurine.app/assets/images/ss-3.png"
       ]
+    },
+    {
+      "name": "Fugu14",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Linus Henze",
+      "subtitle": "Time to get untethered jailbreak (For now, only Unc0ver on A12-A14 is supported with this app),
+      "version": "1.0",
+      "versionDate": "2020-11-03",
+      "versionDescription": "Support more devices, increase PAC bypass reliability",
+      "downloadURL": "https://taurinerepo.github.io/TaurineStore/_otherfiles/ipas/Fugu14App.ipa",
+      "localizedDescription": "Fugu14 is an iOS 14.3-14.5.1 untethered jailbreak for A12-A14",
+      "iconURL": "https://taurinerepo.github.io/TaurineStore/_otherfiles/Fugu14_icon.png",
+      "tintColor": "6356F6",
+      "size": 31400000,
+      "beta": true,
+      "screenshotURLs": [
+        "https://taurinerepo.github.io/TaurineStore/_otherfiles/fugu14_main.png"
+      ]
     }
   ],
   "news": [
@@ -33,6 +51,16 @@
       "imageURL": "https://taurine.app/assets/images/meta.png",
       "appID": "com.odysseyteam.taurine",
       "date": "2021-09-04",
+      "notify": false
+    },
+    {
+      "title": "Fugu14 now available directly from AltStore!",
+      "identifier": "fugu14-release",
+      "caption": "Supports iOS 14.3-14.5.1 (A12-A14)",
+      "tintColor": "6356F6",
+      "imageURL": "",
+      "appID": "science.xnu.undecimus",
+      "date": "2020-11-03",
       "notify": false
     }
   ],
