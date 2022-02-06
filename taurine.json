@@ -1,7 +1,7 @@
 {
   "name": "Taurine",
   "identifier": "com.odysseyteam.taurinealtstore",
-  "sourceURL": "https://example.com/taurine.json",
+  "sourceURL": "https://taurinerepo.github.io/TaurineStore/taurine.json",
   "apps": [
     {
       "name": "Taurine",
